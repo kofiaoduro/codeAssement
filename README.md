@@ -42,8 +42,7 @@ CREATE TABLE USERS (
 	Email: TEXT NOT NULL
 );
 
-
 To insert one sample user
 INSERT INTO USERS(name, email) values (“Kevin”, “Kevin@gmail.com”);
 SELECT * FROM USERS
-![image](https://github.com/user-attachments/assets/3af2495f-c270-4c51-9dcc-55c89d4b820e)
+
